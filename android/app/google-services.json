@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227120203075",
+    "project_id": "womensafe-59c17",
+    "storage_bucket": "womensafe-59c17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227120203075:android:36ac3a9ed190a370365bf6",
+        "android_client_info": {
+          "package_name": "com.techpro.womensafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuPX-BFkEKGxN6a_OIeZVXTE1FGSknMmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
